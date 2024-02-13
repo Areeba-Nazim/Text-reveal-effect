@@ -33,7 +33,7 @@ let tl = gsap.timeline({
     end: "100% 50% ",
     markers: true ,
     pin: true,
-    scrub: 33,
+    scrub: 3,
   }
 });
 
